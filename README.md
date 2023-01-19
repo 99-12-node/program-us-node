@@ -21,7 +21,8 @@ git add -A(또는 .) // 변경된 전체 파일을 한번에 반영
 git commit -m "feat: ${문제번호} 풀이 추가" // 작업한 내용을 메시지에 기록
 ```
 ### 5. 본인 원격 저장소에 올리기
-```git push origin 브랜치이름
+```
+git push origin 브랜치이름
 ```
 ### 6. github 서비스에서 Pull Request를 보내기
 Pull Request는 original 저장소의 main 브랜치와 앞 단계에서 생성한 브랜치 이름을 기준으로 합니다.
