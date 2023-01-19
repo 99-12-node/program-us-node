@@ -43,8 +43,6 @@ git push origin 브랜치이름
 ```
 ### 6. github 서비스에서 Pull Request를 보내기
 Pull Request는 original 저장소의 main 브랜치와 앞 단계에서 생성한 브랜치 이름을 기준으로 합니다.
-<img width="997" alt="image" src="https://user-images.githubusercontent.com/35288895/213532558-b18b8145-ac87-4c2c-952a-5afb675066fc.png">
-
 ```
 Github 에서 작업한 브랜치의 Compare & Pull Request를 보낸다.
 브랜치를 작업 브랜치로 변경
@@ -52,6 +50,7 @@ Github 에서 작업한 브랜치의 Compare & Pull Request를 보낸다.
 ```
 - Pull Request 제목은 `feat: [$문제번호, $문제번호, ...] $이름`으로 진행합니다.
 - 작업한 내용을 입력하고 "Create pull request" 버튼을 클릭해 Pull Request를 보내주세요.
+<img width="870" alt="image" src="https://user-images.githubusercontent.com/35288895/213533928-8afdc6e8-f9bd-49db-9bb4-fc33de82d54f.png">
 
 
 ## 발표 히스토리
