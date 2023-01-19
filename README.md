@@ -7,6 +7,10 @@
 ### 2. fork한 저장소를 자신의 컴퓨터로 clone하기
 ```
 git clone https://github.com/{본인_아이디}/{저장소 아이디}.git
+
+// 프로젝트로 폴더 이동
+cd {저장도 아이디}.git 
+ex) cd program-us-node
 ```
 
 ### 3. 브랜치 생성
