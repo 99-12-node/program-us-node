@@ -1,5 +1,6 @@
 # 코딩테스트 (12기 Node.js)
 
+
 ## 준비하기
 
 ### 1. 레포지토리를 자신의 계정으로 fork하기
@@ -42,5 +43,15 @@ Pull Request는 original 저장소의 main 브랜치와 앞 단계에서 생성�
 - 작업한 내용을 입력하고 "Create pull request" 버튼을 클릭해 Pull Request를 보내주세요.
 
 
-#### reference
+## 발표 히스토리
+
+| 날짜 | 문제번호 | 담당자 | 완료 | 
+| --- | --- |  --- | --- | 
+| 2023-01-19  | 120898, 120902 | 남혜민 | ☑︎ | 
+
+
+
+
+
+### reference
 [참고자료](https://github.com/woowacourse/woowacourse-docs/tree/main/precourse)
