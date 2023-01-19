@@ -1,6 +1,18 @@
 # 코딩테스트 (12기 Node.js)
 
 
+<details>
+<summary>목차</summary>
+<div markdown="1">
+<ul>
+  <li><a href="https://github.com/99-12-node/program-us-node#%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0">준비하기</a></li>
+  <li><a href="https://github.com/99-12-node/program-us-node#%EB%B0%9C%ED%91%9C-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC">발표 히스토리</a></li>
+  <li><a href="https://github.com/99-12-node/program-us-node#reference">reference</a></li>
+</ul>
+</div>
+</details>
+
+
 ## 준비하기
 
 ### 1. 레포지토리를 자신의 계정으로 fork하기
@@ -47,9 +59,7 @@ Pull Request는 original 저장소의 main 브랜치와 앞 단계에서 생성�
 
 | 날짜 | 문제번호 | 담당자 | 완료 | 
 | --- | --- |  --- | --- | 
-| 2023-01-19  | 120898, 120902 | 남혜민 | ☑︎ | 
-
-
+| 2023-01-19  | 120898, 120902 | 남혜민 | [#1](https://github.com/99-12-node/program-us-node/pull/1) | 
 
 
 
