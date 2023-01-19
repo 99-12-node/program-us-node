@@ -1,4 +1,5 @@
 function solution(my_string) {
+    // my_string = "3 + 4"
     // my_String을 공백으로 쪼개기  --> 구글링
     let stringList = my_string.split(' '); // [ '3', '+', '4' ]
 
