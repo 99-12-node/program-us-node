@@ -1,3 +1,5 @@
+//몫 구하기
+
 function solution(num1, num2) {
     let answer = 0;
     if (num1 % num2 == 0 ) {
