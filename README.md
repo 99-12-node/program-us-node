@@ -57,9 +57,9 @@ Github 에서 작업한 브랜치의 Compare & Pull Request를 보낸다.
 
 | 날짜 | 문제번호 | 담당자 | 완료 | 
 | --- | --- |  --- | --- | 
-| 2023-01-19  | 120898, 120902 | 남혜민 | [#1](https://github.com/99-12-node/program-us-node/pull/1) | 
-| 2023-01-20  | 120892 | 남혜민 |  | 
-| 2023-01-20  | 120807, 120805, 120803 |  |  |
+| 2023-01-19  | [120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898), [120902](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | 남혜민 | [#1](https://github.com/99-12-node/program-us-node/pull/1) | 
+| 2023-01-20  | [120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | 남혜민 |  | 
+| 2023-01-20  | [120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807), [120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805), [120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) |  |  |
 
 
 
