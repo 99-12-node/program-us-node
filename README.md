@@ -6,7 +6,7 @@
 <div markdown="1">
 <ul>
   <li><a href="https://github.com/99-12-node/program-us-node#%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0">준비하기</a></li>
-  <li><a href="https://github.com/99-12-node/program-us-node#%EB%B0%9C%ED%91%9C-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC">발표 히스토리</a></li>
+  <li><a href="https://github.com/99-12-node/program-us-node/edit/main/README.md#%EB%AC%B8%EC%A0%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8">문제 리스트</a></li>
   <li><a href="https://github.com/99-12-node/program-us-node#reference">reference</a></li>
 </ul>
 </div>
@@ -53,13 +53,19 @@ Github 에서 작업한 브랜치의 Compare & Pull Request를 보낸다.
 <img width="870" alt="image" src="https://user-images.githubusercontent.com/35288895/213533928-8afdc6e8-f9bd-49db-9bb4-fc33de82d54f.png">
 
 
-## 발표 히스토리
+## 문제 리스트
 
 | 날짜 | 문제번호 | 담당자 | 완료 | 
 | --- | --- |  --- | --- | 
 | 2023-01-19  | [120898](https://school.programmers.co.kr/learn/courses/30/lessons/120898), [120902](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | 남혜민 | [#1](https://github.com/99-12-node/program-us-node/pull/1) | 
-| 2023-01-20  | [120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | 남혜민 |  | 
-| 2023-01-20  | [120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807), [120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805), [120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) |  |  |
+| 2023-01-20  | [120892](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | 남혜민 | [#2](https://github.com/99-12-node/program-us-node/pull/2)  | 
+| 2023-01-20  | [120807](https://school.programmers.co.kr/learn/courses/30/lessons/120807), [120805](https://school.programmers.co.kr/learn/courses/30/lessons/120805), [120803](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | 이승운 | [#6](https://github.com/99-12-node/program-us-node/pull/6) |
+| 2023-01-21  | Day 01 - [120802](https://school.programmers.co.kr/learn/courses/30/lessons/120802), [120804](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | 곽승민 |  |
+| 2023-01-22  | Day 02 - [120809](https://school.programmers.co.kr/learn/courses/30/lessons/120809), [120806](https://school.programmers.co.kr/learn/courses/30/lessons/120806), [120808](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | 곽승민 |  |
+| 2023-01-23  | Day 03 - [120810](https://school.programmers.co.kr/learn/courses/30/lessons/120810), [120811](https://school.programmers.co.kr/learn/courses/30/lessons/120811), [120812](https://school.programmers.co.kr/learn/courses/30/lessons/120812), [120813](https://school.programmers.co.kr/learn/courses/30/lessons/120813)  | 곽승민 |  |
+| 2023-01-24  | Day 04 - | 곽승민 |  |
+
+
 
 
 
