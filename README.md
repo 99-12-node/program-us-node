@@ -6,7 +6,7 @@
 <div markdown="1">
 <ul>
   <li><a href="https://github.com/99-12-node/program-us-node#%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0">준비하기</a></li>
-  <li><a href="https://github.com/99-12-node/program-us-node/edit/main/README.md#%EB%AC%B8%EC%A0%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8">문제 리스트</a></li>
+  <li><a href="https://github.com/99-12-node/program-us-node#%EB%AC%B8%EC%A0%9C-%EB%A6%AC%EC%8A%A4%ED%8A%B8">문제 리스트</a></li>
   <li><a href="https://github.com/99-12-node/program-us-node#reference">reference</a></li>
 </ul>
 </div>
