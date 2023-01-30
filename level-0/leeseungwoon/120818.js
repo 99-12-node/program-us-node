@@ -1,11 +1,10 @@
 function solution(price) {
-    var answer = 0;
-    if(price >= 500000){
-        answer = price - price*0.2        
-    } else if(price <= 499990 && price >= 300000){
-        answer = price - price*0.1
-    } else {
-        answer = price - price*0.05
+    if (price >= 500000){
+        price *= 0.8
+    }else if(price >= 300000){
+        price *= 0.9
+    }else if(price >= 100000){
+        price *= 0.95
     }
-    return answer;
-} //수정 필요
+    return Math.floor(price)    
+}
