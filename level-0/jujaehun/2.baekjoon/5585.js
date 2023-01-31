@@ -28,25 +28,33 @@ const penny = [500 ,100 ,50 ,10 ,5 ,1]
 
 
 function solution (paidMoney){
-    answer = 0;
+    let answer = 0;
+    let change = 1000 - paidMoney
     
-    for(let i = 0; i < penny.length; i++){
-        let change = 1000 - paidMoney
-        // 500원 나누기
-        if (change >= 500)answer += change / 500
-        break;
-        // 100원 나누기
-        
-        // 50원 나누기
-        
-        // 10원 나누기
-        
-        // 5원 나누기
-        
+    while(change >= 500){
+        change -= 500;
+        answer++;
     }
- 
-    
-
+    while(change >= 100){
+        change -= 100;
+        answer++;
+    }
+    while(change >= 50){
+        change -= 50;
+        answer++;
+    }
+    while(change >= 10){
+        change -= 10;
+        answer++;
+    }
+    while(change >= 5){
+        change -= 5;
+        answer++;
+    }
+    while(change >= 1){
+        change -= 1;
+        answer++;
+    }
     return answer;
 }
 
