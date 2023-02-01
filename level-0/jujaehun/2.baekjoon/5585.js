@@ -24,8 +24,6 @@
 
 
 */
-const penny = [500 ,100 ,50 ,10 ,5 ,1]
-
 
 function solution (paidMoney){
     let answer = 0;
