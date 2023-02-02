@@ -21,5 +21,7 @@ function solution(str){
 
     return answer;
 }
+
 let str="OXOOOXXXOXOOXOOOOOXO";
+
 console.log(solution(str))
